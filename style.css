@@ -1,0 +1,35 @@
+ h1 {
+    color:#ffd700;
+ }
+
+ .header{
+     background-color:#e6e6ff;
+     display: flex;
+     justify-content: space-between;
+ }
+ .menu{
+     display: flex;
+     justify-content: space-between;
+     background-color: #d279d2;
+     padding: 15;
+     font-size: 20;
+     font-family: sans-serif;
+     font-weight: 400;
+     color: #b366ff;
+ }
+ 
+ .grid{
+     display: flex;
+     flex-wrap: wrap;
+ }
+ .grid img{
+    border: black;
+    border-radius: 50;
+ }
+ .origami{
+     border-radius: 20;
+     background-color:#b3ffff;
+     width: 310;
+     font-family: fantasy;
+ }
+ 
